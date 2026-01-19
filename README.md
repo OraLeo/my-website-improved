@@ -1,2 +1,2 @@
-# my-website-improved
+# my-DBT-improved
 Building a fully functional website that fetches and displays OHLC (Open, High, Low, Close) data from Deriv's API can be done for free using static hosting. Deriv provides a WebSocket API for accessing market data like OHLC candles without needing a backend server. This setup will allow users to select different time frames...
